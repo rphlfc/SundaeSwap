@@ -9,9 +9,12 @@ import SwiftUI
 
 @main
 struct SundaeSwapApp: App {
+    @StateObject private var vm = HomeViewModel()
+    
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .environmentObject(vm)
         }
     }
 }

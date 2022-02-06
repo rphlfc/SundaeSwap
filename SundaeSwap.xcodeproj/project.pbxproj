@@ -7,18 +7,58 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3D18DC1627AEE24000F14E03 /* ConnectYourWalletView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D18DC1527AEE24000F14E03 /* ConnectYourWalletView.swift */; };
+		3D18DC1827AEEE0400F14E03 /* QuickMenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D18DC1727AEEE0400F14E03 /* QuickMenuView.swift */; };
+		3D18DC1A27AEF23E00F14E03 /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D18DC1927AEF23E00F14E03 /* HeaderView.swift */; };
 		3D749F4E27A33D0F00F93D79 /* SundaeSwapApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D749F4D27A33D0F00F93D79 /* SundaeSwapApp.swift */; };
 		3D749F5027A33D0F00F93D79 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D749F4F27A33D0F00F93D79 /* ContentView.swift */; };
 		3D749F5227A33D1300F93D79 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3D749F5127A33D1300F93D79 /* Assets.xcassets */; };
 		3D749F5527A33D1300F93D79 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3D749F5427A33D1300F93D79 /* Preview Assets.xcassets */; };
+		3D749F5D27A33D6B00F93D79 /* Pool.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D749F5C27A33D6B00F93D79 /* Pool.swift */; };
+		3D874E8D27A6D81A00775EBA /* ShadowAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D874E8C27A6D81A00775EBA /* ShadowAnimationView.swift */; };
+		3D874E9027A6D95600775EBA /* RoundedCorner.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D874E8F27A6D95600775EBA /* RoundedCorner.swift */; };
+		3D874E9227A6F02A00775EBA /* Line.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D874E9127A6F02A00775EBA /* Line.swift */; };
+		3D874E9527A70E2000775EBA /* HomeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D874E9427A70E2000775EBA /* HomeViewModel.swift */; };
+		3D874E9727A71F6900775EBA /* PoolRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D874E9627A71F6900775EBA /* PoolRowView.swift */; };
+		3D8DD17C27B04A9100FC4EC2 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 3D8DD17B27B04A9100FC4EC2 /* README.md */; };
+		3D96E2BC27AF0FD50092384C /* SwapBoxView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D96E2BB27AF0FD50092384C /* SwapBoxView.swift */; };
+		3DFCFE0D27A59BFF00CFFCA5 /* Token.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DFCFE0C27A59BFF00CFFCA5 /* Token.swift */; };
+		3DFCFE1027A5AE8500CFFCA5 /* View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DFCFE0F27A5AE8500CFFCA5 /* View.swift */; };
+		3DFCFE1227A5D15E00CFFCA5 /* MenuItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DFCFE1127A5D15E00CFFCA5 /* MenuItem.swift */; };
+		3DFCFE1527A5DFFE00CFFCA5 /* BackgroundView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DFCFE1427A5DFFE00CFFCA5 /* BackgroundView.swift */; };
+		3DFCFE1727A5E29A00CFFCA5 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DFCFE1627A5E29A00CFFCA5 /* HomeView.swift */; };
+		3DFCFE1927A5E2A500CFFCA5 /* SwapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DFCFE1827A5E2A500CFFCA5 /* SwapView.swift */; };
+		3DFCFE1B27A5E2AD00CFFCA5 /* LiquidityView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DFCFE1A27A5E2AD00CFFCA5 /* LiquidityView.swift */; };
+		3DFCFE1D27A5E2B700CFFCA5 /* QueueView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DFCFE1C27A5E2B700CFFCA5 /* QueueView.swift */; };
+		3DFCFE1F27A5E44F00CFFCA5 /* SearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DFCFE1E27A5E44F00CFFCA5 /* SearchView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3D18DC1527AEE24000F14E03 /* ConnectYourWalletView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConnectYourWalletView.swift; sourceTree = "<group>"; };
+		3D18DC1727AEEE0400F14E03 /* QuickMenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuickMenuView.swift; sourceTree = "<group>"; };
+		3D18DC1927AEF23E00F14E03 /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
 		3D749F4A27A33D0F00F93D79 /* SundaeSwap.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SundaeSwap.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3D749F4D27A33D0F00F93D79 /* SundaeSwapApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SundaeSwapApp.swift; sourceTree = "<group>"; };
 		3D749F4F27A33D0F00F93D79 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		3D749F5127A33D1300F93D79 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		3D749F5127A33D1300F93D79 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = SundaeSwap/Assets.xcassets; sourceTree = SOURCE_ROOT; };
 		3D749F5427A33D1300F93D79 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3D749F5C27A33D6B00F93D79 /* Pool.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pool.swift; sourceTree = "<group>"; };
+		3D874E8C27A6D81A00775EBA /* ShadowAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShadowAnimationView.swift; sourceTree = "<group>"; };
+		3D874E8F27A6D95600775EBA /* RoundedCorner.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundedCorner.swift; sourceTree = "<group>"; };
+		3D874E9127A6F02A00775EBA /* Line.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Line.swift; sourceTree = "<group>"; };
+		3D874E9427A70E2000775EBA /* HomeViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewModel.swift; sourceTree = "<group>"; };
+		3D874E9627A71F6900775EBA /* PoolRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PoolRowView.swift; sourceTree = "<group>"; };
+		3D8DD17B27B04A9100FC4EC2 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		3D96E2BB27AF0FD50092384C /* SwapBoxView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwapBoxView.swift; sourceTree = "<group>"; };
+		3DFCFE0C27A59BFF00CFFCA5 /* Token.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Token.swift; sourceTree = "<group>"; };
+		3DFCFE0F27A5AE8500CFFCA5 /* View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View.swift; sourceTree = "<group>"; };
+		3DFCFE1127A5D15E00CFFCA5 /* MenuItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuItem.swift; sourceTree = "<group>"; };
+		3DFCFE1427A5DFFE00CFFCA5 /* BackgroundView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundView.swift; sourceTree = "<group>"; };
+		3DFCFE1627A5E29A00CFFCA5 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		3DFCFE1827A5E2A500CFFCA5 /* SwapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwapView.swift; sourceTree = "<group>"; };
+		3DFCFE1A27A5E2AD00CFFCA5 /* LiquidityView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LiquidityView.swift; sourceTree = "<group>"; };
+		3DFCFE1C27A5E2B700CFFCA5 /* QueueView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QueueView.swift; sourceTree = "<group>"; };
+		3DFCFE1E27A5E44F00CFFCA5 /* SearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,9 +72,21 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3D18DC1427AEE22A00F14E03 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				3DFCFE1627A5E29A00CFFCA5 /* HomeView.swift */,
+				3D18DC1527AEE24000F14E03 /* ConnectYourWalletView.swift */,
+				3D874E9627A71F6900775EBA /* PoolRowView.swift */,
+				3D18DC1727AEEE0400F14E03 /* QuickMenuView.swift */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
 		3D749F4127A33D0F00F93D79 = {
 			isa = PBXGroup;
 			children = (
+				3D8DD17B27B04A9100FC4EC2 /* README.md */,
 				3D749F4C27A33D0F00F93D79 /* SundaeSwap */,
 				3D749F4B27A33D0F00F93D79 /* Products */,
 			);
@@ -51,6 +103,11 @@
 		3D749F4C27A33D0F00F93D79 /* SundaeSwap */ = {
 			isa = PBXGroup;
 			children = (
+				3D874E9327A70E1000775EBA /* ViewModel */,
+				3DFCFE0E27A5AE7A00CFFCA5 /* Extensions */,
+				3D749F5B27A33D4100F93D79 /* Model */,
+				3D874E8E27A6D94700775EBA /* Utils */,
+				3DFCFE1327A5DFF300CFFCA5 /* View */,
 				3D749F4D27A33D0F00F93D79 /* SundaeSwapApp.swift */,
 				3D749F4F27A33D0F00F93D79 /* ContentView.swift */,
 				3D749F5127A33D1300F93D79 /* Assets.xcassets */,
@@ -65,6 +122,89 @@
 				3D749F5427A33D1300F93D79 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		3D749F5B27A33D4100F93D79 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				3D749F5C27A33D6B00F93D79 /* Pool.swift */,
+				3DFCFE0C27A59BFF00CFFCA5 /* Token.swift */,
+				3DFCFE1127A5D15E00CFFCA5 /* MenuItem.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		3D874E8E27A6D94700775EBA /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				3D874E8F27A6D95600775EBA /* RoundedCorner.swift */,
+				3D874E9127A6F02A00775EBA /* Line.swift */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		3D874E9327A70E1000775EBA /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				3D874E9427A70E2000775EBA /* HomeViewModel.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		3D96E2BA27AF0FB80092384C /* Swap */ = {
+			isa = PBXGroup;
+			children = (
+				3DFCFE1827A5E2A500CFFCA5 /* SwapView.swift */,
+				3D96E2BB27AF0FD50092384C /* SwapBoxView.swift */,
+			);
+			path = Swap;
+			sourceTree = "<group>";
+		};
+		3D96E2BD27AF25750092384C /* Common */ = {
+			isa = PBXGroup;
+			children = (
+				3DFCFE1427A5DFFE00CFFCA5 /* BackgroundView.swift */,
+				3DFCFE1E27A5E44F00CFFCA5 /* SearchView.swift */,
+				3D874E8C27A6D81A00775EBA /* ShadowAnimationView.swift */,
+				3D18DC1927AEF23E00F14E03 /* HeaderView.swift */,
+			);
+			path = Common;
+			sourceTree = "<group>";
+		};
+		3D96E2BE27AF25880092384C /* Liquidity */ = {
+			isa = PBXGroup;
+			children = (
+				3DFCFE1A27A5E2AD00CFFCA5 /* LiquidityView.swift */,
+			);
+			path = Liquidity;
+			sourceTree = "<group>";
+		};
+		3D96E2BF27AF25980092384C /* Queue */ = {
+			isa = PBXGroup;
+			children = (
+				3DFCFE1C27A5E2B700CFFCA5 /* QueueView.swift */,
+			);
+			path = Queue;
+			sourceTree = "<group>";
+		};
+		3DFCFE0E27A5AE7A00CFFCA5 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				3DFCFE0F27A5AE8500CFFCA5 /* View.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		3DFCFE1327A5DFF300CFFCA5 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				3D96E2BD27AF25750092384C /* Common */,
+				3D18DC1427AEE22A00F14E03 /* Home */,
+				3D96E2BA27AF0FB80092384C /* Swap */,
+				3D96E2BE27AF25880092384C /* Liquidity */,
+				3D96E2BF27AF25980092384C /* Queue */,
+			);
+			path = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,6 +265,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3D8DD17C27B04A9100FC4EC2 /* README.md in Resources */,
 				3D749F5527A33D1300F93D79 /* Preview Assets.xcassets in Resources */,
 				3D749F5227A33D1300F93D79 /* Assets.xcassets in Resources */,
 			);
@@ -137,8 +278,27 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3D749F5D27A33D6B00F93D79 /* Pool.swift in Sources */,
+				3DFCFE1D27A5E2B700CFFCA5 /* QueueView.swift in Sources */,
 				3D749F5027A33D0F00F93D79 /* ContentView.swift in Sources */,
+				3D874E9727A71F6900775EBA /* PoolRowView.swift in Sources */,
+				3D874E9527A70E2000775EBA /* HomeViewModel.swift in Sources */,
+				3D96E2BC27AF0FD50092384C /* SwapBoxView.swift in Sources */,
+				3DFCFE1027A5AE8500CFFCA5 /* View.swift in Sources */,
+				3DFCFE1F27A5E44F00CFFCA5 /* SearchView.swift in Sources */,
+				3DFCFE1527A5DFFE00CFFCA5 /* BackgroundView.swift in Sources */,
+				3D874E9027A6D95600775EBA /* RoundedCorner.swift in Sources */,
+				3DFCFE1927A5E2A500CFFCA5 /* SwapView.swift in Sources */,
+				3DFCFE1227A5D15E00CFFCA5 /* MenuItem.swift in Sources */,
+				3D874E9227A6F02A00775EBA /* Line.swift in Sources */,
+				3D874E8D27A6D81A00775EBA /* ShadowAnimationView.swift in Sources */,
+				3DFCFE1727A5E29A00CFFCA5 /* HomeView.swift in Sources */,
+				3DFCFE1B27A5E2AD00CFFCA5 /* LiquidityView.swift in Sources */,
+				3D18DC1A27AEF23E00F14E03 /* HeaderView.swift in Sources */,
 				3D749F4E27A33D0F00F93D79 /* SundaeSwapApp.swift in Sources */,
+				3DFCFE0D27A59BFF00CFFCA5 /* Token.swift in Sources */,
+				3D18DC1827AEEE0400F14E03 /* QuickMenuView.swift in Sources */,
+				3D18DC1627AEE24000F14E03 /* ConnectYourWalletView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
